@@ -12,9 +12,8 @@ Célja, hogy egységes, áttekinthető és professzionális keretet biztosítson
 
 ## 🏫 **Intézményi adatok**
 
-**Pataky István Technikum**  
-Cím: 1107 Budapest, Száva utca 1–3.  
-Fenntartó: Budapesti Gépészeti Szakképzési Centrum  
+**BMSzC Pataky István Technikum**  
+Cím: 1101 Budapest, Salgótarjáni út 53./b  
 
 ---
 
@@ -32,24 +31,6 @@ Fenntartó: Budapesti Gépészeti Szakképzési Centrum
 
 ---
 
-## ✍️ **Vizsgázó neve:**  
-*(ide kerül a vizsgázó neve)*
-
-## 🧑‍🏫 **Vizsgabizottság tagjai:**  
-- Elnök:  
-- Tagok:  
-- Jegyző:  
-
----
-
-## 📂 **Dokumentum tartalma**
-
-1. Vizsgafeladatok leírása  
-2. Értékelési útmutató  
-3. Szükséges mellékletek  
-4. Jegyzőkönyvek és adminisztratív dokumentumok  
-
----
 
 ### **Sok sikert kívánunk a vizsgához!**  
-A Pataky István Technikum tantestülete
+A Pataky István Technikum
