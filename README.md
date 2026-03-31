@@ -39,7 +39,6 @@ A Pataky István Technikum
 ## 🔧 Logók
 <div align="center">
 
-| Windows 11 | Debian | AWS | Azure |
 |:----------:|:------:|:---:|:-----:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="60"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="60"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="60"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="60"> |
 
