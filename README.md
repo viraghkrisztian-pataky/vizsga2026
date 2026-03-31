@@ -40,7 +40,10 @@ A Pataky István Technikum
 
 <p align="center">
   <img src="https://pngimg.com/uploads/windows_logos/windows_logos_PNG35.png" alt="Windows" width="120" />
-  <img src="[https://www.pngall.com/wp-content/uploads/2016/05/Debian-PNG-Image.png](https://th.bing.com/th/id/R.ebee4ee7a3b7548959e163abed90ff4e?rik=KRexcrw%2bog2jhA&riu=http%3a%2f%2fwww.ddesignerr.com%2fwp-content%2fuploads%2f2013%2f05%2fdebian-logo-horizontal.gif&ehk=SsXoxtSh6q07YWxYfXRiud67H%2fvN3u1dZmoYV8Hu22g%3d&risl=&pid=ImgRaw&r=0)" alt="Debian" width="120" />
-  <img src="https://pngimg.com/uploads/amazon_web_services/amazon_web_services_PNG23.png" alt="AWS" width="120" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" alt="Debian" width="120" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="120" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="120" />
 </p>
