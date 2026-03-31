@@ -36,7 +36,7 @@ A Pataky István Technikum
 
 ---
 
-## 🔧 Logók
+## 🔧 Szükséges ismeretek
 <div align="center">
 
 | Windows  | Debian | AWS | Azure |
