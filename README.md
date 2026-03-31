@@ -38,32 +38,3 @@ A Pataky István Technikum
 
 ## 🔧 Logók
 
-<table align="center">
-  <tr>
-    <td align="center" style="background-color:#f2f2f2; padding:20px; border-radius:12px;">
-      <table>
-        <tr>
-          <td align="center" style="padding:15px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="60"><br>
-            <sub><b>Windows 11</b></sub>
-          </td>
-          
-          <td align="center" style="padding:15px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" height="60"><br>
-            <sub><b>Debian</b></sub>
-          </td>
-          
-          <td align="center" style="padding:15px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="60"><br>
-            <sub><b>AWS</b></sub>
-          </td>
-          
-          <td align="center" style="padding:15px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="60"><br>
-            <sub><b>Azure</b></sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
