@@ -2,6 +2,7 @@
 
 ## Szökséges állományok
 [PHP for windows](https://downloads.php.net/~windows/)
+
 [Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable)
 
 ## PHP teszt oldal
