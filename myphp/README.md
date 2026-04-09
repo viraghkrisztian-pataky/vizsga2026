@@ -1,6 +1,6 @@
 # PHP webszerver készítése
 Az php tesztekéséhez észíteni kell egy 
-> phponfo.php
+> phpinfo.php
 oldalt, amelynek tartalma
 ```
 
