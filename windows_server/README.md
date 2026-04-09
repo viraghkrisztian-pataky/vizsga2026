@@ -12,3 +12,9 @@ Get-Date; Get-TimeZone
 ```
 Get-ADOrganizationalUnit -Filter * | Select Name, DistinguishedName
 ```
+## Csoportok és felgasználók
+```
+Get-ADObject -Filter * -SearchBase "OU=ROXFORT,DC=vizsga,DC=local"
+```
+# Szkript a megosztés ellenőrzéséhez
+> home_check.ps1
