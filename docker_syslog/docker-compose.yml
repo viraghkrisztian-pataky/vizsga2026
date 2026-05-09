@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  rsyslog:
+    image: rsyslog/rsyslog-collector
+    container_name: rsyslog-server
+
+    ports:
+      - "514:514/udp"
+      - "514:514/tcp"
+
+    volumes:
+      - ./logs:/logs
+      - ./config/rsyslog.conf:/etc/rsyslog.conf
+
+    restart: unless-stopped
