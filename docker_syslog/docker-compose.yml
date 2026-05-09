@@ -2,7 +2,7 @@ version: '3'
 
 services:
   rsyslog:
-    image: rsyslog/rsyslog-collector
+    image: SZÜKSÉGES DOCKER IMAGE
     container_name: rsyslog-server
 
     ports:
@@ -10,7 +10,7 @@ services:
       - "514:514/tcp"
 
     volumes:
-      - ./logs:/logs
+      - LOGS MAPPA CSATOLÁSA
       - ./config/rsyslog.conf:/etc/rsyslog.conf
 
     restart: unless-stopped
