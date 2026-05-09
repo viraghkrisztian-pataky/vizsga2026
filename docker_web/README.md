@@ -11,7 +11,7 @@ services:
     ports:
       - "Szökséges portok"
     volumes:
-      - "külső mappa csatolása cxssak olvasásra"
+      - "külső mappa csatolása cssak olvasásra"
     restart: always
 ```
 
